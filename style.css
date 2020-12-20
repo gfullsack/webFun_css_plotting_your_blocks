@@ -6,22 +6,22 @@
    #wrapper{
     width: 960px;
     background-color: silver;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     margin: 0px auto;
    }
    #header{
     height: 150px;
     width: 930px;
     background-color: green;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
     }
    #navigation{
     height: 300px;
     width: 190px;
     background-color: blue;
-    margin: 10px;
+    margin: 15px;
     display: inline-block;
     }
    #main_content{
